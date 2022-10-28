@@ -1,1 +1,92 @@
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Power-red/Mini low-power TPS613222A boost converter/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   .gitignore
+	modified:   CAD/Change Log.xlsx
+	modified:   CAD/V1.0.0/PANEL/TPS613222A_mini_low_power_boost.kicad_pcb
+	modified:   CAD/V1.0.0/PANEL/TPS613222A_mini_low_power_boost.kicad_pro
+	modified:   CAD/V1.0.0/TPS613222A_mini_low_power_boost.kicad_pcb
+	modified:   CAD/V1.0.0/TPS613222A_mini_low_power_boost.kicad_pro
+	modified:   CAD/V1.0.0/TPS613222A_mini_low_power_boost.kicad_sch
+	modified:   LICENSE.md
+	new file:   OUTPUTS/Compliance/CE.pdf
+	new file:   OUTPUTS/Compliance/Info.txt
+	new file:   OUTPUTS/Compliance/Safety sheet DE.pdf
+	new file:   OUTPUTS/Compliance/Safety sheet EN.pdf
+	new file:   OUTPUTS/Compliance/UKCA.pdf
+	modified:   OUTPUTS/V1.0.0/Mini low-power TPS613222A boost converter_BOM.csv
+	modified:   OUTPUTS/V1.0.0/Mini low-power TPS613222A boost converter_ibom.html
+	modified:   OUTPUTS/V1.0.0/Mini_low-power_TPS613222A_boost_converter.pdf
+	modified:   OUTPUTS/V1.0.0/Mini_low-power_TPS613222A_boost_converter_177.4x202.8_40.zip
+	modified:   OUTPUTS/V1.0.0/TPS613222A mini low power boost.jpg
+	modified:   OUTPUTS/V1.0.0/TPS613222A_mini_low_power_boost.step
+	modified:   README.md
+	new file:   log.txt
+
+[main ab9b1c1] Updating open source files.
+ 21 files changed, 6 insertions(+)
+ mode change 100644 => 100755 .gitignore
+ mode change 100644 => 100755 CAD/Change Log.xlsx
+ mode change 100644 => 100755 CAD/V1.0.0/PANEL/TPS613222A_mini_low_power_boost.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.0.0/PANEL/TPS613222A_mini_low_power_boost.kicad_pro
+ mode change 100644 => 100755 CAD/V1.0.0/TPS613222A_mini_low_power_boost.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.0.0/TPS613222A_mini_low_power_boost.kicad_pro
+ mode change 100644 => 100755 CAD/V1.0.0/TPS613222A_mini_low_power_boost.kicad_sch
+ mode change 100644 => 100755 LICENSE.md
+ create mode 100755 OUTPUTS/Compliance/CE.pdf
+ create mode 100755 OUTPUTS/Compliance/Info.txt
+ create mode 100755 OUTPUTS/Compliance/Safety sheet DE.pdf
+ create mode 100755 OUTPUTS/Compliance/Safety sheet EN.pdf
+ create mode 100755 OUTPUTS/Compliance/UKCA.pdf
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/Mini low-power TPS613222A boost converter_BOM.csv
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/Mini low-power TPS613222A boost converter_ibom.html
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/Mini_low-power_TPS613222A_boost_converter.pdf
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/Mini_low-power_TPS613222A_boost_converter_177.4x202.8_40.zip
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/TPS613222A mini low power boost.jpg
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/TPS613222A_mini_low_power_boost.step
+ mode change 100644 => 100755 README.md
+ create mode 100755 log.txt
+https://github.com/SolderedElectronics/Mini-low-power-TPS613222A-boost-converter-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Power-red/MPPT Li-Ion CN3791 charger board/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Power-red/e-paper power supply TPS65186 breakout/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Power-red/Mini boost converter/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Power-red/Mini buck converter/OUTPUTS/V1.2.2: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Power-red/Generic buck converter board 3V3/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+ - Wrong number of zips 0
+ - Wrong number of csv 0
+ - Wrong number of html 0
+/volume1/SOLDERED products/Soldered products/Power-red/Generic buck converter board 5V/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+ - Wrong number of zips 0
+ - Wrong number of csv 0
+ - Wrong number of html 0
+/volume1/SOLDERED products/Soldered products/Power-red/Generic buck converter board 12V/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+ - Wrong number of zips 0
+ - Wrong number of csv 0
+ - Wrong number of html 0
+/volume1/SOLDERED products/Soldered products/Adapteri-green/IO expander MCP23017 breakout/OUTPUTS/V1.1.1: all files are present, commiting...
+IO-expander-MCP23017-breakout-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Adapteri-green/IO expander MCP23017 breakout to IO-expander-MCP23017-breakout-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Power-red/Mini low-power TPS613222A boost converter/.git/
