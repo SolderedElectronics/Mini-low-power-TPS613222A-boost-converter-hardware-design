@@ -1,10 +1,10 @@
-## --- Product name --- Hardware design
+## Mini low-power TPS613222A boost converter Hardware design
 
 | ![Product name](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :----------------------------------------------------------: |
-|      [--- product name ----](https://www.solde.red/SKU)      |
+|      [Buy Mini low-power TPS613222A boost converter](https://www.solde.red/333096)      |
 
------- product description ------
+Small booster (step up) module manufactured by Soldered Electronics. It increases the input voltage to the desired level for user.
 
 ## Repository contents
 
